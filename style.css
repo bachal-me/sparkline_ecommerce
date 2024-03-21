@@ -878,6 +878,8 @@ footer {
   }
 
   .fa-cart-shopping {
+    display: flex;
+    gap: 8px;
     padding-right: 1rem;
   }
 }
