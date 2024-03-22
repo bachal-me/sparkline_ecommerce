@@ -878,6 +878,8 @@ footer {
   }
 
   .fa-cart-shopping {
+    display: flax;
+    gap: 10px;
     padding-right: 1rem;
   }
 }
@@ -1189,7 +1191,16 @@ footer {
     flex-direction: column;
     gap: 3.2rem;
   }
-
+  .section-navbar .navbar ul {
+    gap: 1rem;
+    text-transform: capitalize;
+    align-items: center;
+}
+  #cartValue {
+    background-color: var(--buttonColor);
+    color: #fff;
+    padding: 1rem 1rem;
+}
   .section-why--choose {
     & img {
       width: 30%;
