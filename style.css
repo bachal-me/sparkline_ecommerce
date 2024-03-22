@@ -878,9 +878,7 @@ footer {
   }
 
   .fa-cart-shopping {
-    display: flax;
-    gap: 10px;
-    padding-right: 1rem;
+   width: max-content;
   }
 }
 
