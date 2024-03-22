@@ -879,11 +879,6 @@ footer {
     cursor: pointer;
   }
 
-  .fa-cart-shopping {
-    display: flex;
-    gap: 8px;
-    padding-right: 1rem;
-  }
 }
 
 /*****  Add to Cart page starts *****/
